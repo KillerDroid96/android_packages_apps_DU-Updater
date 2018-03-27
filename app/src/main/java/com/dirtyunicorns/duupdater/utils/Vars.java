@@ -19,7 +19,7 @@ package com.dirtyunicorns.duupdater.utils;
 class Vars {
 
     static String[] dirs;
-    static String link = "https://download.dirtyunicorns.com/";
+    static String link = "https://drive.google.com/drive/u/1/folders/1R6KF4rLfy-kyXqyj6difbErULSxMMGxH/";
     static String device;
     static final String TAG_MASTER = "dev_info";
 }
